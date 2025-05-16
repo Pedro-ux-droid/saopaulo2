@@ -1,0 +1,41 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+margin: 0;
+padding:0;
+background-color: rgb(249, 247, 247);
+}
+header{
+background-color: brown;
+color: rgb(255, 255, 255);
+padding: lem;
+text-align: center;
+}
+nav ul {
+list-style: nome;
+padding: 0;
+margin: 0;
+}
+nav ul li {
+display: inline;
+margin-right: 20px;
+}
+nav a {
+color: black;
+text-decoration: none;
+}
+main{
+padding: 20px;
+}
+footer {
+background-color: rgb(3, 3, 3);
+color: aliceblue;
+text-align: center;
+padding: lem;
+position fixed;
+bottom:0;
+width: 100%;
+}
+
+
+
+
